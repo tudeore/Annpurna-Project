@@ -9,4 +9,5 @@ import com.capgemini.CartService.entity.Product;
 @Repository
 public interface CartRepository extends MongoRepository<Cart, Integer>  {
 	
+	
 }
